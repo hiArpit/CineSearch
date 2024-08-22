@@ -30,19 +30,15 @@ Haina exciting [isn't that exiciting] 😍
    ```bash
    git clone https://github.com/hiArpit/CineSearch.git
 
-2. **Navigate to the project directory:**
-    ```bash
-    cd CineSearch
-
-3. **Install the dependencies:**
+2. **Install the dependencies:**
     ```bash
     npm install
 
-4. **Start the development server:**
+3. **Start the development server:**
     ```bash
     npm run dev
 
-5. **Open the development server:**
+4. **Open the development server:**
 Go to http://localhost:5173 to view the web application
 
 ## Deployment
