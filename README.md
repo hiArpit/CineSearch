@@ -108,4 +108,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 - [React](https://reactjs.org/) for the frontend framework.
 
 ## Contact
-If you have any questions for this emo😎, feel free to reach out at [negiarpit2003@gmail.com](mailto:negiarpit2003@gmail.com).
+If you have any questions for me😎, feel free to reach out at [negiarpit2003@gmail.com](mailto:negiarpit2003@gmail.com).
