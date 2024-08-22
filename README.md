@@ -45,6 +45,8 @@ Haina exciting [isn't that exiciting] 😍
 5. **Open the development server:**
 Go to http://localhost:5173 to view the web application
 
+## Deployment
+The web application is deployed on Netlify. You can access the site as a user here: [CineSearch](https://main--cinesearchh.netlify.app/)
 ## Usage
 - **Browse Movies**: View the list of popular movies on the homepage.
 - **Search for Movies**: Use the search bar to find movies by title. The results will update dynamically as you type.
