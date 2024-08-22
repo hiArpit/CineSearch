@@ -51,3 +51,44 @@ Go to http://localhost:5173 to view the web application
 - **Load More Movies**: Scroll down to automatically load more movies thanks to infinite scrolling.
 - **Filter Movies**: Refine your search by selecting genres, typing release years, or choosing ratings (7+, 8+, 9+).
 - **Save Favorites**: Click the "Add to Favorites" button on a movie card to save it to your favorites list.
+
+## Design Decisions
+- **React** was chosen for its component-based architecture, allowing for the development of reusable UI components.
+- **TMDB API** was selected for its comprehensive movie database and ease of use.
+- **Tailwind CSS** was used for its utility-first approach to styling, which speeds up development and ensures a consistent design.
+- **React Router** facilitates easy navigation between different sections of the application.
+- **Local Storage** is utilized to store user preferences, such as favorite movies, directly in the browser.
+
+## Possible Improvements
+- **Implement User Authentication**: Allow users to create accounts and manage their favorite movies across sessions.
+- **Add More Filters**: Expand filtering options to include additional criteria, such as actors or directors.
+- **Movie Discussions**: Create a feature for users to discuss specific movies, sharing their thoughts and opinions.
+- **Integrate Ratings**: Display ratings from IMDb, Rotten Tomatoes, or Metacritic for more comprehensive movie information.
+- **Actor/Director Engagement**: Invite actors or directors for promotions or interviews to discuss their upcoming movies with viewers.
+
+## Contribution
+Want to contribute or want to share any feature. Your enthusiasm will meet with my pessimism. Jokes Jokes 😁. 
+1. **Fork the repository**:- Click the "Fork" button at the top right of this repository page to create a copy under your own GitHub account.
+2. **Create a new branch**:- Create a new branch for your feature or fix.
+    ```bash
+    git checkout -b {branch_name}
+3. **Commit your changes:-**
+    ```bash
+    git commit -m "Description of changes"
+4. **Push to your branch:-**
+    ```bash
+    git push origin {branch_name}
+5. **Create a pull request:-** 
+i)Open a pull request on GitHub from your branch to the main repository. 
+ii) Open an issue to share any feature[🎁] or report bugs[😢]
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+## Acknowledgments
+- [TMDB API](https://www.themoviedb.org/documentation/api) for providing the movie data.
+- [React](https://reactjs.org/) for the frontend framework.
+
+## Contact
+If you have any questions for this emo😎, feel free to reach out at [negiarpit2003@gmail.com](mailto:negiarpit2003@gmail.com).
