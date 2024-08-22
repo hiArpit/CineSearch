@@ -52,6 +52,23 @@ Go to http://localhost:5173 to view the web application
 - **Filter Movies**: Refine your search by selecting genres, typing release years, or choosing ratings (7+, 8+, 9+).
 - **Save Favorites**: Click the "Add to Favorites" button on a movie card to save it to your favorites list.
 
+## Working of the Project
+
+### Homepage
+![Homepage](./Screenshots/working-1.png)
+
+### Favorites Page
+![Favorites Page](./Screenshots/working-2.png)
+
+### Search Movies
+![Search Movies](./Screenshots/working-5.png)
+
+### Select Genre
+![Select Genre](./Screenshots/working-3.png)
+
+### Select Release Year
+![Select Release Year](./Screenshots/working-4.png)
+
 ## Design Decisions
 - **React** was chosen for its component-based architecture, allowing for the development of reusable UI components.
 - **TMDB API** was selected for its comprehensive movie database and ease of use.
