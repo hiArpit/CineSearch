@@ -94,8 +94,8 @@ Want to contribute or want to share any feature. Your enthusiasm will meet with 
     ```bash
     git push origin {branch_name}
 5. **Create a pull request:-** 
-i)Open a pull request on GitHub from your branch to the main repository. 
-ii) Open an issue to share any feature[🎁] or report bugs[😢]
+- Open a pull request on GitHub from your branch to the main repository. 
+- Open an issue to share any feature[🎁] or report bugs[😢]
 
 
 ## License
